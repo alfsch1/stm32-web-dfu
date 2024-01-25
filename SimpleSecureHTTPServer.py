@@ -1,6 +1,6 @@
 #!/usr/bin/python
 try:
-    # Python 2 version
+    # Python 2 version braucht das noch wer ?
     from BaseHTTPServer import HTTPServer
     from SimpleHTTPServer import SimpleHTTPRequestHandler
 except ImportError:
